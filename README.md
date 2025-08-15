@@ -2,7 +2,7 @@
 
 Hi, I’m currently a third year Data Science and Applied Math student at the **University of Utah**. 
 
-Summer of 2025 I interned in the Bay Area as a **DevRel Engineer** at [**Descope**](https://descope.com), an exciting startup with $53M in seed funding. I worked to enhance developer experiences in the Auth/CIAM space through sample apps, MCP integrations, technical blogs, and documentation.
+Summer of 2025 I interned in the SF Bay Area as a **DevRel Engineer** at [**Descope**](https://descope.com), an exciting startup with $53M in seed funding. I worked to enhance developer experiences in the Auth/CIAM space through sample apps, MCP integrations, technical blogs, and documentation.
 
 At the University of Utah, in addition to my classes I am working at the [Integrated Multi-Physics Lab](https://newell.mech.utah.edu/) under [Dr. Pania Newell](https://www.mech.utah.edu/directory/faculty/pania-newell/). There, I am participating in projects in the field of computational mechanics, building machine learning workflows with Python/TensorFlow, DOLFINx, and Gmsh. 
 
