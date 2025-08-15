@@ -43,4 +43,4 @@ When I'm not coding, you can find me on the speed climbing wall, preparing for m
 ### 🏅 Extras
 
 - 🧗 US National Champion in Speed Climbing  
-- 🧩 [Speedcubing](https://www.worldcubeassociation.org/persons/2016SMOL01)
+- 🧩 [Competitive Speedcubing](https://www.worldcubeassociation.org/persons/2016SMOL01)
