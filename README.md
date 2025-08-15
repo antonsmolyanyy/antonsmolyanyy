@@ -1,16 +1,40 @@
-## Hi there 👋
+# Anton Smolyanyy
 
-<!--
-**antonsmolyanyy/antonsmolyanyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m currently a third year Data Science and Applied Math student at the **University of Utah**. Last summer I interned in the Bay Area as a **DevRel Engineer** at **Descope**, an exciting startup with $53M in seed funding. I worked to enhance developer experiences in the Auth/CIAM space through sample apps, MCP integrations, technical blogs, and documentation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📍 About Me
+
+- 🎓 B.S. in Data Science & Applied Mathematics, University of Utah
+- 💼 Summer 2025 Internship: DevRel Engineer @ [Descope](https://descope.com)   
+- 🛠️ Interests: Cybersecurity, MCP and AI integrations, Neural Networks, Data Driven Processes  
+- ✉️ Reach me at: [antonsmo271@gmail.com](mailto:antonsmo271@gmail.com)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/antonsmolyanyy"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/anton-smolyanyy-a38ba0217"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/antonsmolyanyy">
+  <img src="https://github-readme-stats.vercel.app/api?username=antonsmolyanyy&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="Anton's GitHub Stats" />
+</a>
+
+<a href="https://github.com/antonsmolyanyy">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonsmolyanyy&theme=github-dark&hide_border=true" alt="Anton's GitHub Streak" />
+</a>
+
+---
+
+### 🏅 Extras
+
+- 🧗 US National Champion in Speed Climbing  
+- 🧩 [Speedcubing](https://www.worldcubeassociation.org/persons/2016SMOL01)
