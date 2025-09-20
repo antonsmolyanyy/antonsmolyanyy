@@ -14,7 +14,7 @@ When I'm not coding, you can find me on the speed climbing wall, preparing for m
 
 - 🎓 B.S. in Data Science & Applied Mathematics, University of Utah (grad 2027)
 - 💼 Summer 2025 Internship: DevRel Engineer @ [Descope](https://descope.com)   
-- 🛠️ Interests: Cybersecurity, MCP and AI integrations, Neural Networks, Data Driven Processes  
+- 🛠️ Interests: Cybersecurity, MCP and AI integrations, Machine Learning & Neural Networks, Data Driven Processes  
 - ✉️ Reach me at: [antonsmo271@gmail.com](mailto:antonsmo271@gmail.com)
 
 ---
